@@ -1,5 +1,7 @@
 # Use-Twitch-TV-API
 
+Completion Date: Oct 10, 2016
+
 This is the repository for my completion of the freeCodeCamp "Use the Twitchtv JSON API" project. Formatted for mobile use.
 
 A working version is at http://codepen.io/cojamalo/pen/bwLkmZ.
